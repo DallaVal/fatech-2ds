@@ -224,3 +224,28 @@ hr {
     margin-bottom: 40px;
     line-height: 22px;
 }
+
+.noticias .imagem{
+    width: 100%;
+}
+
+.noticias h3{
+    font-weight: bold;
+}
+.noticias .item{
+    width: 30%;
+    margin: 1%;
+}
+.noticias .texto{
+    text-align: left;
+    margin-bottom: 20px;
+}
+.blog{
+    padding: 40px 0;
+}
+
+.maisdoblog{
+    float: right;
+    color: #1A1A1A;
+    font-size: 22px;
+}
