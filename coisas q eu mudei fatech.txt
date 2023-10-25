@@ -1,0 +1,4 @@
+mudei a logo na barra de guia
+
+arrumei os textos com cores e fundos bugados na parte da praça de alimentação
+
